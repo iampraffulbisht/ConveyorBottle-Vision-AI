@@ -1,4 +1,4 @@
-To modify your GitHub README for the YOLOv5 glass bottle detection project, here’s an improved and polished version based on the provided details:
+
 
 ---
 
